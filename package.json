@@ -1,13 +1,14 @@
 {
-  "name": "cv-template",
-  "description": "The Curriculum Vitae Template",
+  "name": "CV",
+  "description": "Hee Seon Kim",
   "scripts": {
     "build": "node src/build.js",
     "watch": "chokidar '**/*' -i 'dist/**/*' -c 'npm run build'",
     "prestart": "npm run build",
     "start": "npm run watch & live-server dist",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+
   },
   "repository": {
     "type": "git",
