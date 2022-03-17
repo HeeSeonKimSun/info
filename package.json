@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/sneas/cv-project/issues"
   },
-  "homepage": "https://github.com/sneas/cv-project#readme",
+  "homepage": "https://heeseonkimsun.github.io/info",
   "devDependencies": {
     "chokidar-cli": "^2.1.0",
     "dayjs": "^1.8.28",
