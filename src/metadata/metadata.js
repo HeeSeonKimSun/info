@@ -1,16 +1,16 @@
 module.exports = {
-  name: 'William Shakespeare',
-  title: 'Poet, playwright and actor',
+  name: 'CV',
+  title: 'Hee Seon Kim',
   facts: {
-    'Residence': 'London',
-    'Homepage': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
+    'Residence': 'S.Korea',
+    'Homepage': `<a href="https://github.com/HeeSeonKimSun/info">
                   <span class="print">https://en.wikipedia.org/wiki/William_Shakespeare</span>
                   <span class="screen">wiki</span>
                 </a>`,
-    'Email': '<a href="mailto:wil64@yahoo.com">wil64@yahoo.com</a>'
+    'Email': '<a href="heeseonkim@cau.ac.kr">heeseonkim@cau.ac.kr</a>'
   },
   skills: [
-    ['Comedy', '++++'],
+    ['Bledner', '++++'],
     ['Love', '++++'],
     ['Theater', '++++'],
     ['Tragedy', '++++'],
